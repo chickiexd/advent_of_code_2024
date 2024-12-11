@@ -19,3 +19,7 @@ test.py
 *problem_1.md
 *problem_2.md
 *input.py
+
+day_00_template/
+requirements.txt
+create_new_day.py
